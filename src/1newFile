@@ -1,2 +1,10 @@
-hey im new file here
-Starting of a new C program for calculating the sum of 2 numbers without using any operator
+//hey im new file here
+//Starting of a new C program for calculating the sum of 2 numbers without using any operator
+#include<stdio.h>
+#include<conio.h>
+int main(){
+int a,b;
+
+return 0;
+}
+
